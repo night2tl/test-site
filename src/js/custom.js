@@ -1,2 +1,2 @@
-//Entry with sample less
+//Entry with sample lessss
 require('../less/custom.less');
